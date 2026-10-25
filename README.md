@@ -1,2 +1,15 @@
-# photobatch
-Batch resize and convert images on Mac with quality control.
+# photobatch（仮名）
+
+**画像一括リサイズ・形式変換**
+
+## 課題（Mac標準の不便）
+プレビューの一括処理は画質指定やリネーム連携が弱い。
+
+## 計画している機能
+- リサイズ（長辺/割合/固定）
+- 形式変換（JPG/PNG/WebP）
+- 出力名ルールと上書き防止
+
+## ステータス
+仮名・構想段階。2026-10-26に「Mac標準の足りないところ」候補としてリポジトリを作成。
+出典リスト: ~/workspace/apps/macos-builtin-pain-points.md
